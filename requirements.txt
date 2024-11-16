@@ -1,0 +1,7 @@
+langchain
+langchain-huggingface
+streamlit
+huggingface_hub
+transformers
+accelerate
+bitsandbytes
